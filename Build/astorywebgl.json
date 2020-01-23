@@ -1,7 +1,7 @@
 {
 "companyName": "Astory",
 "productName": "Jutuaeg",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "astorywebgl.data.unityweb",
 "wasmCodeUrl": "astorywebgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "astorywebgl.wasm.framework.unityweb",
